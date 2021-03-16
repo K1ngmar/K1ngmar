@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://github.com/K1ngmar/K1ngmar/blob/main/github%20about.png)
 ### Hi there 👋
 
 <!--
