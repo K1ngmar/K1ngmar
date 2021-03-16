@@ -1,5 +1,6 @@
 ![Image of Yaktocat](https://github.com/K1ngmar/K1ngmar/blob/main/github%20about.png)
 # <p align="center"> Hi there 👋 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1ngmar)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ngmar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![K1ngmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1ngmar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![K1ngmar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=K1ngmar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
