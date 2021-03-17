@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/K1ngmar/K1ngmar/blob/main/github%20about.png)
+![Ingmar's super cool banner uwu](https://github.com/K1ngmar/K1ngmar/blob/main/github%20about.png)
 # <p align="center"> Hi there 👋 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ngmar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
