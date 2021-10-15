@@ -11,5 +11,5 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=K1ngmar&theme=xcode">
+ <img src="https://activity-graph.herokuapp.com/graph?username=K1ngmar&bg_color=151515&color=FFF&line=9e9e9e">
 </p> 
