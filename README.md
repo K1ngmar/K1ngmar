@@ -4,7 +4,7 @@
 ## <p align="center"> My stats 📈</p>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=K1ngmar&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=K1ngmar&hide=swift,php,python,dockerfile,shell,javascript,html,assembly,css,typescript&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=K1ngmar&hide=swift,php,python,dockerfile,shell,javascript,html,assembly,css,typescript,vue&theme=dark">
 </p>
 
 <p align = "center">
