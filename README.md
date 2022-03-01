@@ -3,6 +3,14 @@
 
 ---
 
+## <p align = "center"> 🧑‍🎓 School projects </p>
+
+<div align = "center">
+
+  All my school projects can be found [here](https://github.com/42-Ikole) 👈🏻
+
+<p>
+
 
 ## <p align = "center"> ✔️ Languages and technologies </p>
 <div align = "center">
