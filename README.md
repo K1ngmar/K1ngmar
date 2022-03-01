@@ -1,5 +1,5 @@
 # <p align="center"> Hi there 👋 </p>
-![Ingmar's super cool banner uwu](https://github.com/K1ngmar/K1ngmar/blob/main/About.gif)
+![Ingmar's super cool banner uwu](./About.gif)
 
 ## <p align="center"> My stats 📈</p>
 <p align = "center">
