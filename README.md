@@ -4,11 +4,14 @@
 ---
 
 <h1 align = "center"> 🧑‍🎓 School projects </h1>
-
+<p align="center">
+  I am currently working on creating my own unix based operating system!
+</p>
+<h3 align="center">
+  You can find all my systems related projects <a href="https://github.com/42-Ikole-Systems">here 👨‍🔬 </a>
+</h3>
 <h3 align = "center">
-
-  All my school projects can be found [here](https://github.com/42-Ikole) 👈🏻
-
+    All my codam core projects can be found <a href="https://github.com/42-Ikole">here 👈🏻</a>
 <h3>
 
 ---
@@ -38,8 +41,4 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=K1ngmar&show_icons=true&theme=dark">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=K1ngmar&show_icons=true&locale=en&theme=dark" />
-</p>
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=K1ngmar&bg_color=151515&color=FFF&line=9e9e9e&hide_title=true">
 </p>
