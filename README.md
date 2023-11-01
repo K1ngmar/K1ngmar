@@ -40,5 +40,4 @@
 ## <p align="center"> 📈 github Stats</p>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=K1ngmar&show_icons=true&theme=dark">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=K1ngmar&show_icons=true&locale=en&theme=dark" />
 </p>
