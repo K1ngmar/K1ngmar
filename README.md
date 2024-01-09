@@ -3,8 +3,9 @@ I am currently working as a software engineer in the inkjet industry whilst cont
 
 ⚙️ Favorite programming Languages: C, C++ and python  
 🌍 I mostly use C++  
+👀 I am interested in optimising code :)  
 🌱 Learning about the unix kernel @Codam  
-💬 Feel free to ask me about code!  
+💬 Feel free to ask me about anything programming related!  
 
 ### Codam projects:
 💻 Check out my codam core projects [here](https://github.com/42-Ikole)  
