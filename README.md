@@ -1,10 +1,10 @@
 ## Welcome! 👋  
 I am currently working as a software engineer in the inkjet industry whilst continuing my studies at Codam.
 
-⚙️ Favorite programming Languages: C, C++ and python  
+⚙️ Favorite programming Languages: C and C++  
 🌍 I mostly use C++  
 👀 I am interested in optimising code :)  
-🌱 Learning about the unix kernel @Codam  
+🌱 Writing a Gameboy emulator with [@rvan-mee](https://github.com/rvan-mee)  
 💬 Feel free to ask me about anything programming related!  
 
 ### Codam projects:
